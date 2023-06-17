@@ -131,7 +131,7 @@ def extract_info_from_sheet_id(sheet_id: str) -> dict:
             with open(f'pgns/{fileName}__{key}.pgn','w') as f:
                 sheetProperties = pgn[key]['properties']
                 for property in sheetProperties:
-                    f.write(f'["{property}" {sheetProperties[property]}]\n')
+                    f.write(f'[{property} "{sheetProperties[property]}"]\n')
                 f.write(f"\n{pgn[key]['moves']}")
         
     except HttpError as err:

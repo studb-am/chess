@@ -1,8 +1,8 @@
-["Date" 2023.06.17]
-["Event" 1]
-["Site" Lichess.org]
-["White" Giuseppe]
-["Black" Computer]
-["Result" 1-0]
+[Date "2023.06.17"]
+[Event "1"]
+[Site "Lichess.org"]
+[White "Giuseppe"]
+[Black "Computer"]
+[Result "1-0"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bf5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. c3 d5 8. Te1 dxe4 9. Ng5 Bg4 10. Bxf7+ Kf8 11. Qc2 Bf5 12. Bb3 Qd3 13. Qxd3 exd3 14. Nf7 a5 15. Nxh8 a4 16. Bf7 Ta6 17. Na3 Ta5 18. b3 axb3 19. axb3 b4 20. cxb4 Ta8 21. Bb2 Bxb4 22. Nc4 Txa1 23. Txa1 Bd6 24. Ta8+ Ke7 25. Ba3 Be6 26. Bxe6 Kxe6 27. Bb2 Nd5 28. Tg8 Kf6 29. Nxd6 cxd6 30. Tf8+ Ke6 31. Tf7 g5 32. Txh7 g4 33. Th6+ Nf6 34. Ng6 Nb4 35. Nf8+ Ke7 36. h3 Kxf8 37. Txf6+ Ke8 38. Txd6 Kf8 39. hxg4 Ke7 40. Tb6 Nd5 41. Tb7+ Kd6 42. g5 Nf4 43. Tb5 Nd5 44. g6 Ne7 45. g7 Ke6 46. Txe5+ Kf6 47. Txe7+ Kxe7 48. g8=Q Kd6 49. Qg6+ Ke7 50. Qxd3+ Ke8 51. f4 Kf8 52. g4 Kg8 53. f5 Kf8 54. g5 Ke8 55. f6 Kf7 56. Qh7+ Ke6 57. Qe7+ Kd5 58. Qe5+ Kd6 59. f7 Kb7 60. f8=Q Kb6 61. Qfd6+ Kb7 62. Qee7+ Ka8 63. Qdd8# 
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. c3 d5 8. Re1 dxe4 9. Ng5 Bg4 10. Bxf7+ Kf8 11. Qc2 Bf5 12. Bb3 Qd3 13. Qxd3 exd3 14. Nf7 a5 15. Nxh8 a4 16. Bf7 Ra6 17. Na3 Ra5 18. b3 axb3 19. axb3 b4 20. cxb4 Ra8 21. Bb2 Bxb4 22. Nc4 Rxa1 23. Rxa1 Bd6 24. Ra8+ Ke7 25. Ba3 Be6 26. Bxe6 Kxe6 27. Bb2 Nd5 28. Rg8 Kf6 29. Nxd6 cxd6 30. Rf8+ Ke6 31. Rf7 g5 32. Rxh7 g4 33. Rh6+ Nf6 34. Ng6 Nb4 35. Nf8+ Ke7 36. h3 Kxf8 37. Rxf6+ Ke8 38. Rxd6 Kf8 39. hxg4 Ke7 40. Rb6 Nd5 41. Rb7+ Kd6 42. g5 Nf4 43. Rb5 Nd5 44. g6 Ne7 45. g7 Ke6 46. Rxe5+ Kf6 47. Rxe7+ Kxe7 48. g8=Q Kd6 49. Qg6+ Ke7 50. Qxd3+ Ke8 51. f4 Kf8 52. g4 Kg8 53. f5 Kf8 54. g5 Ke8 55. f6 Kf7 56. Qh7+ Ke6 57. Qe7+ Kd5 58. Qe5+ Kc6 59. f7 Kb7 60. f8=Q Kb6 61. Qfd6+ Kb7 62. Qee7+ Ka8 63. Qdd8# 
