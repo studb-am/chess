@@ -23,6 +23,7 @@ def make_analysis_on_pgn(pgn_path: str, wb_path: str = wb_path) -> None:
         moveRecord = dict()
         moveRecord['turn'] = 'w' if board.turn else 'b'
         moveRecord['movePlayed'] = str(move)
+        
         #Get the top3 suggestions
         suggestions = engine.analyse(board=board, limit=limit, multipv=3)
         top3suggestions = list()
@@ -34,7 +35,16 @@ def make_analysis_on_pgn(pgn_path: str, wb_path: str = wb_path) -> None:
             localRow['nextMove'] = str(suggestion['pv'][0])
             top3suggestions.append(localRow)
         moveRecord['engineSuggestions'] = top3suggestions
+
+        #Update captured pieces array
+        capturedPiece = ""
+        if board.is_capture(move):
+            piece = board.piece_at(move.to_square)
+            capturedPiece = str(piece.symbol() if piece.color else piece.symbol().lower())
+            print("piece captured", capturedPiece)
         
+        moveRecord['capturedPiece'] = capturedPiece
+
         #Apply Move
         turnNum = board.fullmove_number
         san_move = board.san(move)
@@ -48,9 +58,8 @@ def make_analysis_on_pgn(pgn_path: str, wb_path: str = wb_path) -> None:
                 moveRecord['wbSummary'] = f"{explaination['query']['pages'][0]['extract']}<br />Further details available on <a href='{wb_path.replace(orig_wb_path,'https://en.wikibooks.org/wiki/Chess_Opening_Theory')}'>Wikibooks</a>"
         except Exception as err:
             print(f"No match found for {wb_path}. Error: {err}")
-        
         analysis['steps'].append(moveRecord)
-    
+
     file_name = pgn_path.replace("pgns/","matchAnalysis/").replace(".pgn",".json")
     with open(file_name, 'w') as f:
         f.write(json.dumps(analysis, indent=4))

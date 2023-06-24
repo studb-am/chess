@@ -68,6 +68,7 @@
                     "nextMove": "d2d4"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h2><span id=\"1._e4_.C2.B7_King.27s_Pawn_Opening\"></span><span id=\"1._e4_\u00b7_King's_Pawn_Opening\">1. e4 \u00b7 King's Pawn Opening</span></h2>\n<p>The move 1. e4, the <b>King's Pawn Opening</b>, is the most popular first move at all levels of the game and was the favorite opening move of world champion Bobby Fischer, who called it 'best by test.' White's assertive opening move opens lines for the queen and the king's bishop (a good thing to do). \n</p><p>That 1. e4 also fights for control of d5 and f5 might be relevant later, or it might not, and Black if they wanted to could just take those squares away again by playing 1...e6. If White wants to develop some pieces, the most important square they control by playing 1. e4 is, in fact, the e4 square itself. As long as there's a White pawn on e4, there can't be a Black pawn on e4, which means White's g1-knight can be developed to f3 without fear of getting kicked away by a pawn and losing a tempo. \n</p><p>Just as White indirectly claims the f3 square by playing e4, Black has to bear in mind that f6 will not be a safe square for Black's g8-knight if White can simply advance their e4-pawn to e5. The simplest way for Black to fix this problem would</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4'>Wikibooks</a>"
         },
         {
@@ -128,6 +129,7 @@
                     "nextMove": "b8c6"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h2><span id=\"1...e5_.C2.B7_Open_Game\"></span><span id=\"1...e5_\u00b7_Open_Game\">1...e5 \u00b7 Open Game</span></h2>\n<p>1...e5, the <b>Open Game</b> (or <i>Double King's Pawn Game</i>), is Black's classical response to 1. e4. By mirroring White's move, Black grabs an equal share of the centre and scope to develop some pieces. 1...e5 is one of the few moves that directly interferes with White's ideal plan of playing d4.\n</p><p>But, the move's merit is also a drawback: the longer the position remains symmetrical, the longer White will have an advantage by moving first. Also, the pawn on e5 is undefended, and it is easy for White to develop in a way that restricts Black's possible responses, by simply threatening to capture it.\n</p><p>Though the move is still common at every level, it saw a modest decline in popularity during the 20th century.\n</p>\n<h3><span id=\"White.27s_responses\"></span><span id=\"White's_responses\">White's responses</span></h3>\n\n<p>The overwhelmingly popular move here \u2013 about 10 times more common than everything else combined \u2013 is <b>2. Nf3</b>. \n</p><p>This threatens Black's undefended pawn while developing a piece in preparation for castling on the kingside. The developed knight</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5'>Wikibooks</a>"
         },
         {
@@ -194,6 +196,7 @@
                     "nextMove": "f1e2"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<p><br /></p>\n<h2><span id=\"2._Nf3_-_Open_Game\">2. Nf3 - Open Game</span></h2>\n<p>Black's valuable center pawn is threatened with capture, but White's pawn remains safe. \n</p><p>The question for Black at this point is whether to challenge the White pawn on e4 or support the Black one on e5.\n</p>\n<h3><span id=\"Supporting_the_Black_pawn\">Supporting the Black pawn</span></h3>\n\n<p><b>2...Nc6</b> is the natural move, combining defence of the pawn with control of the d4 square and avoiding committing another pawn for now. \n</p><p>2. Nf3 is 10 times more popular than everything else combined, and in turn the reply 2...Nc6 is about 5 times more popular than everything else combined.\n</p>\n\n\n<p><b>2...d6</b><b>,</b> Philidor's Defence, is the other safe option to defend the pawn. \n</p><p>It restricts the f8 bishop to the e7 square, and grants White an advantage in territory, but it builds a fortress that cannot be easily battered down. This is generally considered an inferior way to defend the e5 pawn because white can easily push for advantage here, and white gets a 58% score here, with 41% wins opposed to Black's 25%. This is especially the case if Black makes a c7-c5 push to kick a potential</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3'>Wikibooks</a>"
         },
         {
@@ -258,6 +261,7 @@
                     "nextMove": "d7d6"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<p><br /></p>\n<h2><span id=\"2...Nc6_-_King.27s_Knight_Opening\"></span><span id=\"2...Nc6_-_King's_Knight_Opening\">2...Nc6 - King's Knight Opening</span></h2>\n<p><b>2...Nc6</b> is the natural move, combining defence of the pawn with control of the d4 square and avoiding committing another pawn for now.\n</p>\n<h3><span id=\"White.27s_responses\"></span><span id=\"White's_responses\">White's responses</span></h3>\n<p>White has multiple choices here which can lead to very different games.\n</p>\n<ul><li><b>3. Bb5</b> is the most played. White puts pressure on the knight defending the pawn.</li>\n<li><b>3. Bc4</b> is quieter. Instead of attacking the knight, White chooses to target the weak f7 pawn.</li>\n<li><b>3. d4</b> is aggressive. Subsequent play may result in a very open game.</li>\n<li><b>3. Nc3</b> is the quietest common continuation.</li>\n<li><b>3. c3</b>, the Ponziani opening, opens the white diagonal for the queen, allows for an eventual d4 pawn push, and controls d4 and b4 (possible plants by the black knight) at the expense of hemming in the knight.</li></ul><p class=\"mw-empty-elt\"></p>\n<p>Some more uncommon moves:\n</p>\n<ul><li><b>3. Nxe5</b>, the Irish Gambit, sacrificing a knight for a</li></ul>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6'>Wikibooks</a>"
         },
         {
@@ -327,6 +331,7 @@
                     "nextMove": "f1c4"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<p><br /></p>\n<h2><span id=\"3._Bb5_-_Ruy_Lopez\">3. Bb5 - Ruy Lopez</span></h2>\n<p>The essential move marking the Ruy Lopez, or Spanish Game. \"It is the double king's pawn opening most commonly used in master play; it has been adopted by almost all players at some point in their careers and many play it from both the White and Black sides.\"\n</p><p>White threatens to trade off Black's c6-knight, leaving the e5-pawn undefended. It's not an <i>immediate</i> threat, because after 4. Bxc6 dxc6 5. Nxe5, Black can win the pawn back with 5... Qd4 or 5... Qg5.\n</p><p>Black can respond in a variety of ways. The most common move is the Morphy Defence  <b>3... a6</b>. This forces White to make a decision about the Bishop - retreat or exchange.\n</p><p>Many other moves are available, some neglecting completely the protection of the knight and the pawn and continuing development.\n</p><p>The opening is named after the 16th century Spanish priest Ruy L\u00f3pez de Segura.\n</p>\n<p class=\"mw-empty-elt\"></p>\n<h2><span id=\"Theory_table\">Theory table</span></h2>\n<p class=\"mw-empty-elt\">\n</p>\n<dl><dd><b>1. e4 e5 2. Nf3 Nc6 3. Bb5</b></dd></dl><p class=\"mw-empty-elt\">\n</p><h2><span id=\"References\">References</span></h2>\n\n<ul><li><i>Nunn's Chess Openings</i></li></ul>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5'>Wikibooks</a>"
         },
         {
@@ -393,6 +398,7 @@
                     "nextMove": "f8e7"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Morphy_Defence\">Morphy Defence</span></h1>\n<p>By far the most commonly played Black third move in the Ruy Lopez game is the Morphy variation, 3...a6, which \"puts the question\" to the white bishop.\nAlthough 3...a6 was known earlier, it became popular after it was played by world champion Paul Morphy.\nWhite has only two good options, 4. Bxc6 or 4. Ba4.\nThe main point to 3...a6 is that after the common retreat 4.Ba4, Black will have the possibility of breaking the pin on his queen knight by playing ...b5.\nIn fact, White must take some care to not fall into the Noah's Ark Trap in which Black traps White's king bishop on the b3-square with a ...a6, ...b5, and ...c4 pawn advance on the queenside.\n</p>\n<h2><span id=\"Common_Moves\">Common Moves</span></h2>\n<p class=\"mw-empty-elt\"></p>\n<h2><span id=\"Theory_table\">Theory table</span></h2>\n<p>\n</p>\n<dl><dd><b>1.e4 e5 2.Nf3 Nc6 3.Bb5 a6</b></dd></dl><p>\n</p><h2><span id=\"References\">References</span></h2>\n\n<ul><li>Kasparov, Garry, &amp; Keene, Raymond 1989 <i>Batsford chess openings 2</i>. ISBN 0-8050-3409-9.</li></ul><br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6'>Wikibooks</a>"
         },
         {
@@ -458,6 +464,7 @@
                     "nextMove": "b5c6"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Ruy_Lopez.2C_Morphy_Defence\"></span><span id=\"Ruy_Lopez,_Morphy_Defence\">Ruy Lopez, Morphy Defence</span></h1>\n<p>The last two moves ...a6 and Ba4 have made no substantial change to the position, therefore Black's options are much the same as they were on his previous move, although they are now known as deferred defences.\n</p><p>4...Nf6 is the most often played move and is referred to as the main line (rather than the Berlin Deferred). It attacks White's currently undefended e-pawn and helps prepare kingside castling.\n</p><p>4...d6 is the Steinitz Deferred. Much more popular than the true Steinitz Defence, it cuts out any threats to the e-pawn and reserves the option of an f5 push.\n</p><p>4...Bc5 is the Classical Defence Deferred. It develops a piece and controls the a7-g1 diagonal.\n</p><p>Hunting down White's bishop now is not wise. Black can play 4...b5 5.Bb3 Na5, hunting down White's light-squared bishop, however, this takes a lot of time, and after 6.O-O Nxb3 7.axb3, Black is far behind in development. The game Pavlovic-Agdestein, 2003 continued (after 5...Na5) 6.O-O d6 7.d4 f6 (holding on to e5 is Black's main idea in the Ruy Lopez) 8.Nc3 Nxb3 9.axb3 (Black doesn</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6/4._Ba4'>Wikibooks</a>"
         },
         {
@@ -522,6 +529,7 @@
                     "nextMove": "b7b5"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Ruy_Lopez_Main_Line\">Ruy Lopez Main Line</span></h1>\n<p>Black's move 4...Nf6 threatens White's e-pawn. White may defend it directly with\n</p>\n<ul><li><b>5.d3</b>, the Anderssen Variation or</li>\n<li><b>5.Nc3</b> transposing to the Four Knights, Spanish Variation</li></ul><p>but both moves interfere with White's natural plan of playing c3 and d4. Without playing c3 and d4 to create some central tension it will be difficult to generate open files for the rooks; additionally White's star attacker currently residing on a4 is liable to get swapped off if it does not have the option of retreating to c2.\n</p>\n<ul><li><b>5.Qe2</b>, the Wormald Attack, retains the option of c3 and d4, and introduces the medium-term plan of shifting the king's rook across to d1 in a single move after White castles kingside. The downside is that it places the queen on a file that's very likely to get opened, or at least half-opened. Put your rooks on open files and your queen on a closed one!</li></ul><p>The main line, and a more subtle way of maintaining material equality, is <b>5. O-O</b>, after which Black can grab a pawn but cannot hold on to it.\n</p>\n<h2><span id=\"Common_Moves\">Common Moves</span></h2>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6/4._Ba4/4...Nf6'>Wikibooks</a>"
         },
         {
@@ -590,6 +598,7 @@
                     "nextMove": "d2d4"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Ruy_Lopez_Main_Line\">Ruy Lopez Main Line</span></h1>\n<p>Black has a number of options here:\n</p><p>Developing the f8-bishop to allow castling is a logical step. \n</p>\n<ul><li><b>5...Be7</b> and</li>\n<li><b>5...Bc5</b> are both played; Bc5 carries more superficial attacking potential along the g1-a7 diagonal, but Black's natural plan of playing ...d6 will cut this bishop off from the defence of the kingside, plus it means White's natural plan of c3 followed by d4 will come with gain of tempo. Be7 is the most common move for these reasons. The bishop is not necessarily a bad piece on e7, where it supports the knight against any coming Bg5 ideas, and in the long term if Black is forced into playing ...g6 to evict a White knight from f5, it's useful to have the bishop available to redeploy to g7 via f8.</li></ul><ul><li><b>5...b5</b> plans to develop the c8-bishop on b7 and the f8-bishop on c5, where they both aim at the kingside along adjacent diagonals. The difference between this move and the immediate ...Bc5 is that on ...Bc5 White can play c3 and get the bishop back to c2 in one move; here she must lose a tempo going via b3. Hence ...b5 is more common than ...Bc5.</li></ul>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6/4._Ba4/4...Nf6/5._O-O'>Wikibooks</a>"
         },
         {
@@ -655,6 +664,7 @@
                     "nextMove": "b7b5"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Ruy_Lopez\">Ruy Lopez</span></h1>\n<p>6. Bb3 is necessary to save the bishop.\n</p>\n<h2><span id=\"Theory_table\">Theory table</span></h2>\n<p>\n</p><p><b>1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5</b>\n</p>\n<p>\n</p><h2><span id=\"References\">References</span></h2>\n\n<ul><li>Kasparov, Garry, &amp; Keene, Raymond 1989 <i>Batsford chess openings 2</i>. ISBN 0-8050-3409-9.</li></ul>\n<p><br></p><br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6/4._Ba4/4...Nf6/5._O-O/5...b5'>Wikibooks</a>"
         },
         {
@@ -724,6 +734,7 @@
                     "nextMove": "f3e5"
                 }
             ],
+            "capturedPiece": "",
             "wbSummary": "<h1><span id=\"Ruy_Lopez\">Ruy Lopez</span></h1>\n<h2><span id=\"Ruy_Lopez_Arkhangelsk.2FM.C3.B8ller_Variations\"></span><span id=\"Ruy_Lopez_Arkhangelsk/M\u00f8ller_Variations\">Ruy Lopez Arkhangelsk/M\u00f8ller Variations</span></h2>\n<p>The move ...b5 is seen at some point in most variations of the main line Ruy Lopez, so Black has a few transpositional possibilities here: 6...d6 or 6...Be7 will probably end up in the standard Closed Variation (5...Be7 6. Re1 b5) and 6...Nxe4 almost certainly leads back to the Open Variation.\n</p><p>Basically, replacing ...Be7 with ...b5 means that Black has retained the option of setting up bishops at b7 and c5. The two independent moves, therefore, are the Arkhangelsk 6...Bb7 and the M\u00f8ller 6...Bc5. They may transpose into each other.\n</p><p>It's always to Black's advantage to have something to play against the Lopez other than the old main lines, which is why these two sound, aggressive variations, along with 5...Bc5, have experienced a major revival of late.\n</p>\n<p>\n</p><p><br></p>\n<h2><span id=\"References\">References</span></h2><br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Nf3/2...Nc6/3._Bb5/3...a6/4._Ba4/4...Nf6/5._O-O/5...b5/6._Bb3'>Wikibooks</a>"
         },
         {
@@ -787,7 +798,8 @@
                     ],
                     "nextMove": "f8e7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -855,7 +867,8 @@
                     ],
                     "nextMove": "a2a4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -919,7 +932,8 @@
                     ],
                     "nextMove": "d7d5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -984,7 +998,8 @@
                     ],
                     "nextMove": "d2d3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -1043,7 +1058,8 @@
                     ],
                     "nextMove": "d5d4"
                 }
-            ]
+            ],
+            "capturedPiece": "P"
         },
         {
             "turn": "w",
@@ -1106,7 +1122,8 @@
                     ],
                     "nextMove": "d2d4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -1157,7 +1174,8 @@
                     ],
                     "nextMove": "d8d3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1226,7 +1244,8 @@
                     ],
                     "nextMove": "f2f3"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -1271,7 +1290,8 @@
                     ],
                     "nextMove": "e8f8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1337,7 +1357,8 @@
                     ],
                     "nextMove": "f7b3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -1391,7 +1412,8 @@
                     ],
                     "nextMove": "d8d3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1454,7 +1476,8 @@
                     ],
                     "nextMove": "f7e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -1520,7 +1543,8 @@
                     ],
                     "nextMove": "e7c5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1582,7 +1606,8 @@
                     ],
                     "nextMove": "g5e6"
                 }
-            ]
+            ],
+            "capturedPiece": "q"
         },
         {
             "turn": "b",
@@ -1652,7 +1677,8 @@
                     ],
                     "nextMove": "c6d4"
                 }
-            ]
+            ],
+            "capturedPiece": "Q"
         },
         {
             "turn": "w",
@@ -1710,7 +1736,8 @@
                     ],
                     "nextMove": "g5e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -1781,7 +1808,8 @@
                     ],
                     "nextMove": "a6a5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1853,7 +1881,8 @@
                     ],
                     "nextMove": "f7e5"
                 }
-            ]
+            ],
+            "capturedPiece": "r"
         },
         {
             "turn": "b",
@@ -1926,7 +1955,8 @@
                     ],
                     "nextMove": "e7c5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -1996,7 +2026,8 @@
                     ],
                     "nextMove": "h8g6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -2059,7 +2090,8 @@
                     ],
                     "nextMove": "e7c5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -2123,7 +2155,8 @@
                     ],
                     "nextMove": "b2b4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -2190,7 +2223,8 @@
                     ],
                     "nextMove": "a6b6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -2252,7 +2286,8 @@
                     ],
                     "nextMove": "h2h3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -2327,7 +2362,8 @@
                     ],
                     "nextMove": "a4b3"
                 }
-            ]
+            ],
+            "capturedPiece": "P"
         },
         {
             "turn": "w",
@@ -2388,7 +2424,8 @@
                     ],
                     "nextMove": "a3b1"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -2453,7 +2490,8 @@
                     ],
                     "nextMove": "f5d7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -2512,7 +2550,8 @@
                     ],
                     "nextMove": "h2h3"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -2582,7 +2621,8 @@
                     ],
                     "nextMove": "a5a7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -2654,7 +2694,8 @@
                     ],
                     "nextMove": "b4b5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -2721,7 +2762,8 @@
                     ],
                     "nextMove": "f6g4"
                 }
-            ]
+            ],
+            "capturedPiece": "P"
         },
         {
             "turn": "w",
@@ -2786,7 +2828,8 @@
                     ],
                     "nextMove": "a3b5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -2854,7 +2897,8 @@
                     ],
                     "nextMove": "a8d8"
                 }
-            ]
+            ],
+            "capturedPiece": "R"
         },
         {
             "turn": "w",
@@ -2918,7 +2962,8 @@
                     ],
                     "nextMove": "h8g6"
                 }
-            ]
+            ],
+            "capturedPiece": "r"
         },
         {
             "turn": "b",
@@ -2977,7 +3022,8 @@
                     ],
                     "nextMove": "e5e4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3047,7 +3093,8 @@
                     ],
                     "nextMove": "c4e3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -3111,7 +3158,8 @@
                     ],
                     "nextMove": "c6b8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3171,7 +3219,8 @@
                     ],
                     "nextMove": "g1f1"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -3233,7 +3282,8 @@
                     ],
                     "nextMove": "f5e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3309,7 +3359,8 @@
                     ],
                     "nextMove": "a8a6"
                 }
-            ]
+            ],
+            "capturedPiece": "b"
         },
         {
             "turn": "b",
@@ -3375,7 +3426,8 @@
                     ],
                     "nextMove": "c6d4"
                 }
-            ]
+            ],
+            "capturedPiece": "B"
         },
         {
             "turn": "w",
@@ -3437,7 +3489,8 @@
                     ],
                     "nextMove": "f2f3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -3493,7 +3546,8 @@
                     ],
                     "nextMove": "c6d4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3548,7 +3602,8 @@
                     ],
                     "nextMove": "a8g8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -3607,7 +3662,8 @@
                     ],
                     "nextMove": "g7g6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3672,7 +3728,8 @@
                     ],
                     "nextMove": "g1h1"
                 }
-            ]
+            ],
+            "capturedPiece": "b"
         },
         {
             "turn": "b",
@@ -3729,7 +3786,8 @@
                     ],
                     "nextMove": "c6e7"
                 }
-            ]
+            ],
+            "capturedPiece": "N"
         },
         {
             "turn": "w",
@@ -3797,7 +3855,8 @@
                     ],
                     "nextMove": "g8a8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -3862,7 +3921,8 @@
                     ],
                     "nextMove": "f6g5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -3928,7 +3988,8 @@
                     ],
                     "nextMove": "f8e8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -4002,7 +4063,8 @@
                     ],
                     "nextMove": "d5f6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4062,7 +4124,8 @@
                     ],
                     "nextMove": "g1f1"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -4132,7 +4195,8 @@
                     ],
                     "nextMove": "c6a5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4201,7 +4265,8 @@
                     ],
                     "nextMove": "g1f1"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -4267,7 +4332,8 @@
                     ],
                     "nextMove": "e6d7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4337,7 +4403,8 @@
                     ],
                     "nextMove": "f2f4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -4403,7 +4470,8 @@
                     ],
                     "nextMove": "c6a5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4472,7 +4540,8 @@
                     ],
                     "nextMove": "f2f4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -4541,7 +4610,8 @@
                     ],
                     "nextMove": "e6e7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4618,7 +4688,8 @@
                     ],
                     "nextMove": "f2f4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -4680,7 +4751,8 @@
                     ],
                     "nextMove": "e7f7"
                 }
-            ]
+            ],
+            "capturedPiece": "N"
         },
         {
             "turn": "w",
@@ -4755,7 +4827,8 @@
                     ],
                     "nextMove": "b2a3"
                 }
-            ]
+            ],
+            "capturedPiece": "n"
         },
         {
             "turn": "b",
@@ -4817,7 +4890,8 @@
                     ],
                     "nextMove": "f8g7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -4880,7 +4954,8 @@
                     ],
                     "nextMove": "f6h6"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -4947,7 +5022,8 @@
                     ],
                     "nextMove": "g4g3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5014,7 +5090,8 @@
                     ],
                     "nextMove": "b2e5"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -5087,7 +5164,8 @@
                     ],
                     "nextMove": "f8e7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5153,7 +5231,8 @@
                     ],
                     "nextMove": "b2c3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5220,7 +5299,8 @@
                     ],
                     "nextMove": "b4a2"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5288,7 +5368,8 @@
                     ],
                     "nextMove": "b6h6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5358,7 +5439,8 @@
                     ],
                     "nextMove": "e7f6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5424,7 +5506,8 @@
                     ],
                     "nextMove": "b2e5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5495,7 +5578,8 @@
                     ],
                     "nextMove": "d6e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5561,7 +5645,8 @@
                     ],
                     "nextMove": "b7a7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5635,7 +5720,8 @@
                     ],
                     "nextMove": "e5e4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5706,7 +5792,8 @@
                     ],
                     "nextMove": "b5a5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5773,7 +5860,8 @@
                     ],
                     "nextMove": "d5f4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5842,7 +5930,8 @@
                     ],
                     "nextMove": "b5a5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -5913,7 +6002,8 @@
                     ],
                     "nextMove": "d6e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -5986,7 +6076,8 @@
                     ],
                     "nextMove": "b5b8"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -6056,7 +6147,8 @@
                     ],
                     "nextMove": "e6f7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6134,7 +6226,8 @@
                     ],
                     "nextMove": "b3b4"
                 }
-            ]
+            ],
+            "capturedPiece": "n"
         },
         {
             "turn": "b",
@@ -6195,7 +6288,8 @@
                     ],
                     "nextMove": "f6g5"
                 }
-            ]
+            ],
+            "capturedPiece": "R"
         },
         {
             "turn": "w",
@@ -6256,7 +6350,8 @@
                     ],
                     "nextMove": "b2a1"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -6304,7 +6399,8 @@
                     ],
                     "nextMove": "e7d7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6372,7 +6468,8 @@
                     ],
                     "nextMove": "g8g3"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -6438,7 +6535,8 @@
                     ],
                     "nextMove": "d6d7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6503,7 +6601,8 @@
                     ],
                     "nextMove": "g6g7"
                 }
-            ]
+            ],
+            "capturedPiece": "p"
         },
         {
             "turn": "b",
@@ -6562,7 +6661,8 @@
                     ],
                     "nextMove": "e7e6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6630,7 +6730,8 @@
                     ],
                     "nextMove": "d3d6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -6686,7 +6787,8 @@
                     ],
                     "nextMove": "e8f8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6743,7 +6845,8 @@
                     ],
                     "nextMove": "f4f5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -6801,7 +6904,8 @@
                     ],
                     "nextMove": "f8g8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6856,7 +6960,8 @@
                     ],
                     "nextMove": "b3b4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -6906,7 +7011,8 @@
                     ],
                     "nextMove": "g8f8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -6959,7 +7065,8 @@
                     ],
                     "nextMove": "d3d8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7021,7 +7128,8 @@
                     ],
                     "nextMove": "f8f7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7087,7 +7195,8 @@
                     ],
                     "nextMove": "f5f6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7136,7 +7245,8 @@
                     ],
                     "nextMove": "e8f7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7210,7 +7320,8 @@
                     ],
                     "nextMove": "b2c1"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7261,7 +7372,8 @@
                     ],
                     "nextMove": "f7e8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7331,7 +7443,8 @@
                     ],
                     "nextMove": "g5g6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7373,7 +7486,8 @@
                     ],
                     "nextMove": "e6d5"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7434,7 +7548,8 @@
                     ],
                     "nextMove": "g5g6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7456,7 +7571,8 @@
                     ],
                     "nextMove": "d5c6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7518,7 +7634,8 @@
                     ],
                     "nextMove": "d2d4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7574,7 +7691,8 @@
                     ],
                     "nextMove": "c6b7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7633,7 +7751,8 @@
                     ],
                     "nextMove": "e5e4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7681,7 +7800,8 @@
                     ],
                     "nextMove": "b7c6"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7728,7 +7848,8 @@
                     ],
                     "nextMove": "d2d4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7762,7 +7883,8 @@
                     ],
                     "nextMove": "b6a7"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7807,7 +7929,8 @@
                     ],
                     "nextMove": "e5e4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "b",
@@ -7837,7 +7960,8 @@
                     ],
                     "nextMove": "b7a8"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         },
         {
             "turn": "w",
@@ -7880,7 +8004,8 @@
                     ],
                     "nextMove": "e7e4"
                 }
-            ]
+            ],
+            "capturedPiece": ""
         }
     ]
 }
