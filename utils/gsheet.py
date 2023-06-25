@@ -76,12 +76,15 @@ def extract_info_from_sheet_id(sheet_id: str) -> dict:
         sheetAPI = service.spreadsheets()
         fileInfo = sheetAPI.get(spreadsheetId=sheet_id).execute()
         fileName = fileInfo['properties']['title'] #we are going to save all the matches by date, hence the date is gathered directly from file name
+        print("Found title", fileName)
         date = datetime.datetime.strptime(fileName, '%Y%m%d')
         date = date.strftime('%Y.%m.%d')
+        print("Match played on", date)
         pgn = dict()
         
         for sheet in fileInfo['sheets']:
             sheetTitle = sheet['properties']['title']
+            print("Looping in the sheet; title", sheetTitle)
             pgn[sheetTitle] = dict()
             pgn[sheetTitle]['properties'] = dict()
 

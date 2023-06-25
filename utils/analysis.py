@@ -67,4 +67,4 @@ def make_analysis_on_pgn(pgn_path: str, wb_path: str = wb_path) -> None:
 
 #test execution of the function    
 if __name__ == "__main__":
-    make_analysis_on_pgn("pgns/20230617__1.pgn")
+    make_analysis_on_pgn("pgns/20230624__2.pgn")
