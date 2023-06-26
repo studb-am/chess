@@ -1,0 +1,989 @@
+{
+    "meta": {
+        "Event": "1",
+        "Site": "Camping",
+        "Date": "2024.06.25",
+        "Round": "?",
+        "White": "Giuseppe",
+        "Black": "Salvatore",
+        "Result": "1-0"
+    },
+    "steps": [
+        {
+            "turn": "w",
+            "movePlayed": "e2e4",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 26,
+                        "d": 973,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "e2e4",
+                        "e7e5",
+                        "b1c3",
+                        "g8f6",
+                        "g1f3",
+                        "f8b4",
+                        "f3e5",
+                        "e8g8"
+                    ],
+                    "nextMove": "e2e4"
+                },
+                {
+                    "score": {
+                        "w": 21,
+                        "d": 978,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "c2c4",
+                        "c7c5",
+                        "e2e3",
+                        "g8f6",
+                        "g1f3",
+                        "g7g6",
+                        "f1e2"
+                    ],
+                    "nextMove": "c2c4"
+                },
+                {
+                    "score": {
+                        "w": 12,
+                        "d": 986,
+                        "l": 2
+                    },
+                    "suggestedMoves": [
+                        "d2d4",
+                        "g8f6",
+                        "g1f3",
+                        "d7d5",
+                        "c2c4",
+                        "c7c6",
+                        "d1c2",
+                        "d5c4",
+                        "e2e3"
+                    ],
+                    "nextMove": "d2d4"
+                }
+            ],
+            "capturedPiece": "",
+            "wbSummary": "<h2><span id=\"1._e4_.C2.B7_King.27s_Pawn_Opening\"></span><span id=\"1._e4_\u00b7_King's_Pawn_Opening\">1. e4 \u00b7 King's Pawn Opening</span></h2>\n<p>The move 1. e4, the <b>King's Pawn Opening</b>, is the most popular first move at all levels of the game and was the favorite opening move of world champion Bobby Fischer, who called it 'best by test.' White's assertive opening move opens lines for the queen and the king's bishop (a good thing to do). \n</p><p>That 1. e4 also fights for control of d5 and f5 might be relevant later, or it might not, and Black if they wanted to could just take those squares away again by playing 1...e6. If White wants to develop some pieces, the most important square they control by playing 1. e4 is, in fact, the e4 square itself. As long as there's a White pawn on e4, there can't be a Black pawn on e4, which means White's g1-knight can be developed to f3 without fear of getting kicked away by a pawn and losing a tempo. \n</p><p>Just as White indirectly claims the f3 square by playing e4, Black has to bear in mind that f6 will not be a safe square for Black's g8-knight if White can simply advance their e4-pawn to e5. The simplest way for Black to fix this problem would</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4'>Wikibooks</a>"
+        },
+        {
+            "turn": "b",
+            "movePlayed": "d7d5",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 1,
+                        "d": 956,
+                        "l": 43
+                    },
+                    "suggestedMoves": [
+                        "e7e5",
+                        "g1f3",
+                        "b8c6",
+                        "f1b5",
+                        "a7a6",
+                        "b5a4",
+                        "f8c5"
+                    ],
+                    "nextMove": "e7e5"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 944,
+                        "l": 56
+                    },
+                    "suggestedMoves": [
+                        "c7c5",
+                        "g1f3",
+                        "g7g6",
+                        "c2c3",
+                        "f8g7",
+                        "d2d4",
+                        "c5d4",
+                        "c3d4"
+                    ],
+                    "nextMove": "c7c5"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 928,
+                        "l": 72
+                    },
+                    "suggestedMoves": [
+                        "b8c6",
+                        "d2d4",
+                        "d7d5",
+                        "e4e5",
+                        "c8f5",
+                        "f1e2",
+                        "e7e6",
+                        "g1f3"
+                    ],
+                    "nextMove": "b8c6"
+                }
+            ],
+            "capturedPiece": "",
+            "wbSummary": "<h2><span id=\"1..._d5_-_Scandinavian_Defence\">1... d5 - Scandinavian Defence</span></h2>\n<p>The Scandinavian Defense (or Centre Counter Defense) is one of the oldest chess openings, dating back the 16th century. This opening tries to break White's centre and stop white from taking control. The Scandinavian defense is Black's 9th most popular response to 1.e4 and grandmasters such as Magnus Carlsen occasionally play this move in tournaments. White has a few possible replies:\n</p>\n<dl><dd><ul><li>2. exd5</li></ul></dd></dl><p>This is White's strongest reply, and exposes chief drawback of the Scandinavian Defense: in order to recover the pawn (while not mandatory) Black must now bring out his queen providing White with a target to attack. This was considered enough of a problem to put the opening out of business for much of the mid-20th century. However, modern players are a little more comfortable breaking the rules, and the Scandinavian has enjoyed some modern popularity.\n</p>\n<dl><dd><ul><li>2. d4 transposes to the Blackmar-Diemer Gambit.  If Black prefers to decline the gambit, he can steer the game into the French, Caro-Kann, or Nimzovich Defenses.</li></ul></dd></dl><p>White can</p>...<br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...d5'>Wikibooks</a>"
+        },
+        {
+            "turn": "w",
+            "movePlayed": "b1c3",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 102,
+                        "d": 898,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "e4d5",
+                        "g8f6",
+                        "d2d4",
+                        "f6d5",
+                        "g1f3",
+                        "c8f5",
+                        "f1d3",
+                        "f5d3",
+                        "d1d3",
+                        "e7e6",
+                        "d3b5",
+                        "b8c6"
+                    ],
+                    "nextMove": "e4d5"
+                },
+                {
+                    "score": {
+                        "w": 10,
+                        "d": 987,
+                        "l": 3
+                    },
+                    "suggestedMoves": [
+                        "e4e5",
+                        "c7c5",
+                        "c2c3",
+                        "a7a6",
+                        "d2d4",
+                        "b8c6",
+                        "d4c5",
+                        "c6e5"
+                    ],
+                    "nextMove": "e4e5"
+                },
+                {
+                    "score": {
+                        "w": 1,
+                        "d": 969,
+                        "l": 30
+                    },
+                    "suggestedMoves": [
+                        "b1c3",
+                        "d5d4",
+                        "c3e2",
+                        "c7c5",
+                        "g1f3",
+                        "g7g6",
+                        "e2f4",
+                        "f8g7",
+                        "f1b5",
+                        "c8d7"
+                    ],
+                    "nextMove": "b1c3"
+                }
+            ],
+            "capturedPiece": "",
+            "wbSummary": "<p>\nNc3 is the Closed Scandinavian Defense, it may transpose to a Reversed Nimzowitsch/ Caro Kann or a Van Geet opening, this is a solid response but very rare nowadays.</p><p>\n</p><br />Further details available on <a href='https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...d5/2._Nc3'>Wikibooks</a>"
+        },
+        {
+            "turn": "b",
+            "movePlayed": "e7e6",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 56,
+                        "d": 944,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "d5d4",
+                        "c3b1",
+                        "a7a6",
+                        "g1f3",
+                        "c7c5"
+                    ],
+                    "nextMove": "d5d4"
+                },
+                {
+                    "score": {
+                        "w": 2,
+                        "d": 987,
+                        "l": 11
+                    },
+                    "suggestedMoves": [
+                        "d5e4",
+                        "c3e4",
+                        "g8f6",
+                        "e4f6",
+                        "e7f6",
+                        "d2d4",
+                        "b8c6",
+                        "g1f3",
+                        "f8d6"
+                    ],
+                    "nextMove": "d5e4"
+                },
+                {
+                    "score": {
+                        "w": 2,
+                        "d": 984,
+                        "l": 14
+                    },
+                    "suggestedMoves": [
+                        "c7c6",
+                        "d2d4",
+                        "d5e4",
+                        "c3e4",
+                        "g8f6",
+                        "e4f6",
+                        "e7f6",
+                        "c2c3",
+                        "f8d6"
+                    ],
+                    "nextMove": "c7c6"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "g1f3",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 46,
+                        "d": 953,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "d2d4",
+                        "f8b4",
+                        "a2a3",
+                        "b4c3",
+                        "b2c3",
+                        "d5e4",
+                        "d1g4",
+                        "g8f6",
+                        "g4g7"
+                    ],
+                    "nextMove": "d2d4"
+                },
+                {
+                    "score": {
+                        "w": 11,
+                        "d": 987,
+                        "l": 2
+                    },
+                    "suggestedMoves": [
+                        "e4d5",
+                        "e6d5",
+                        "d2d4",
+                        "g8f6",
+                        "a2a3",
+                        "f8d6",
+                        "c3b5",
+                        "e8g8",
+                        "b5d6"
+                    ],
+                    "nextMove": "e4d5"
+                },
+                {
+                    "score": {
+                        "w": 6,
+                        "d": 989,
+                        "l": 5
+                    },
+                    "suggestedMoves": [
+                        "f1d3",
+                        "d5d4",
+                        "c3e2",
+                        "e6e5",
+                        "g1f3",
+                        "f8d6",
+                        "e1g1",
+                        "g8f6"
+                    ],
+                    "nextMove": "f1d3"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "b",
+            "movePlayed": "h7h6",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 14,
+                        "d": 984,
+                        "l": 2
+                    },
+                    "suggestedMoves": [
+                        "d5d4",
+                        "c3e2",
+                        "c7c5",
+                        "e2f4",
+                        "a7a6",
+                        "f1e2"
+                    ],
+                    "nextMove": "d5d4"
+                },
+                {
+                    "score": {
+                        "w": 2,
+                        "d": 980,
+                        "l": 18
+                    },
+                    "suggestedMoves": [
+                        "g8f6",
+                        "e4d5",
+                        "e6d5",
+                        "d2d4",
+                        "f8d6",
+                        "c3b5",
+                        "e8g8",
+                        "b5d6"
+                    ],
+                    "nextMove": "g8f6"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 947,
+                        "l": 53
+                    },
+                    "suggestedMoves": [
+                        "h7h6",
+                        "d2d4",
+                        "f8b4",
+                        "e4e5",
+                        "g8e7",
+                        "f1d3",
+                        "c7c5",
+                        "d4c5",
+                        "b8d7"
+                    ],
+                    "nextMove": "h7h6"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "f3e5",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 48,
+                        "d": 951,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "d2d4",
+                        "f8b4",
+                        "e4e5",
+                        "g8e7",
+                        "f1d3",
+                        "c7c5",
+                        "d4c5",
+                        "b8d7",
+                        "e1g1",
+                        "e8g8",
+                        "c3e2"
+                    ],
+                    "nextMove": "d2d4"
+                },
+                {
+                    "score": {
+                        "w": 22,
+                        "d": 977,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "e4d5",
+                        "e6d5",
+                        "d2d4",
+                        "f8e7",
+                        "f1d3",
+                        "g8f6",
+                        "e1g1",
+                        "c7c6",
+                        "f1e1",
+                        "e8g8",
+                        "c1f4",
+                        "f8e8"
+                    ],
+                    "nextMove": "e4d5"
+                },
+                {
+                    "score": {
+                        "w": 8,
+                        "d": 989,
+                        "l": 3
+                    },
+                    "suggestedMoves": [
+                        "e4e5",
+                        "d5d4",
+                        "c3e4",
+                        "b8c6",
+                        "f1d3",
+                        "g8e7",
+                        "e1g1",
+                        "e7g6",
+                        "d3b5",
+                        "c8d7"
+                    ],
+                    "nextMove": "e4e5"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "b",
+            "movePlayed": "f7f6",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 72,
+                        "d": 928,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "d5d4",
+                        "c3e2",
+                        "g8f6",
+                        "d2d3",
+                        "c7c5",
+                        "f2f4",
+                        "f8d6",
+                        "e5c4",
+                        "d6c7"
+                    ],
+                    "nextMove": "d5d4"
+                },
+                {
+                    "score": {
+                        "w": 30,
+                        "d": 969,
+                        "l": 1
+                    },
+                    "suggestedMoves": [
+                        "g8f6",
+                        "e4d5",
+                        "e6d5",
+                        "d2d4",
+                        "f8d6",
+                        "c3b5",
+                        "e8g8",
+                        "b5d6",
+                        "c7d6",
+                        "e5f3"
+                    ],
+                    "nextMove": "g8f6"
+                },
+                {
+                    "score": {
+                        "w": 14,
+                        "d": 984,
+                        "l": 2
+                    },
+                    "suggestedMoves": [
+                        "d5e4",
+                        "d1e2",
+                        "b8d7",
+                        "e5d7",
+                        "c8d7",
+                        "c3e4",
+                        "c7c5"
+                    ],
+                    "nextMove": "d5e4"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "d1h5",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "d1h5",
+                        "g7g6",
+                        "h5g6",
+                        "e8e7",
+                        "g6f7",
+                        "e7d6",
+                        "e5g6",
+                        "d6c5",
+                        "g6h8"
+                    ],
+                    "nextMove": "d1h5"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "f1b5",
+                        "c7c6",
+                        "d1h5",
+                        "e8e7",
+                        "e5g6",
+                        "e7d7",
+                        "g6h8",
+                        "c6b5",
+                        "h5f7",
+                        "d7c6",
+                        "f7g8",
+                        "d5d4"
+                    ],
+                    "nextMove": "f1b5"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "e5g6",
+                        "h8h7",
+                        "e4d5",
+                        "g8e7",
+                        "d1h5",
+                        "c7c6",
+                        "f1d3",
+                        "f6f5",
+                        "d5e6",
+                        "c8e6"
+                    ],
+                    "nextMove": "e5g6"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "b",
+            "movePlayed": "e8e7",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "e8e7",
+                        "e5g6",
+                        "e7d7",
+                        "g6h8",
+                        "d5d4",
+                        "h5f7",
+                        "f8e7",
+                        "h8g6",
+                        "d4c3",
+                        "f7g7",
+                        "c7c6"
+                    ],
+                    "nextMove": "e8e7"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "g7g6",
+                        "h5g6",
+                        "e8e7",
+                        "g6f7",
+                        "e7d6",
+                        "e5g6",
+                        "b8c6",
+                        "g6h8",
+                        "c6d4"
+                    ],
+                    "nextMove": "g7g6"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "e5g6",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "e5g6",
+                        "e7d7",
+                        "g6h8",
+                        "d8e8",
+                        "h8g6",
+                        "d7d8",
+                        "d2d4",
+                        "b8c6",
+                        "f1d3",
+                        "c6d4",
+                        "e1g1",
+                        "d5e4",
+                        "d3e4"
+                    ],
+                    "nextMove": "e5g6"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "h5f7",
+                        "e7d6",
+                        "e5g6",
+                        "d5d4",
+                        "c3b5",
+                        "d6c6",
+                        "g6h8",
+                        "f8c5",
+                        "h8g6",
+                        "a7a6"
+                    ],
+                    "nextMove": "h5f7"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "c3d5",
+                        "e6d5",
+                        "h5f7",
+                        "e7d6",
+                        "f7d5",
+                        "d6e7",
+                        "e5g6",
+                        "e7e8",
+                        "d5d8",
+                        "e8d8",
+                        "g6h8",
+                        "c8d7",
+                        "h8g6",
+                        "b8c6"
+                    ],
+                    "nextMove": "c3d5"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "b",
+            "movePlayed": "e7d6",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "e7d7",
+                        "g6h8",
+                        "d8e8",
+                        "h5e8",
+                        "d7e8",
+                        "e4d5",
+                        "b8a6",
+                        "f1e2",
+                        "a6b4",
+                        "e2h5",
+                        "e8d8"
+                    ],
+                    "nextMove": "e7d7"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "e7d6",
+                        "g6h8",
+                        "d6d7",
+                        "h8g6",
+                        "d5d4",
+                        "c3d1",
+                        "f8d6"
+                    ],
+                    "nextMove": "e7d6"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "e7e8",
+                        "e4d5",
+                        "c7c6",
+                        "g6h8",
+                        "e8d7",
+                        "d5e6",
+                        "d7c7"
+                    ],
+                    "nextMove": "e7e8"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "g6h8",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "g6h8",
+                        "d6d7",
+                        "e4d5",
+                        "d8e8",
+                        "d5e6",
+                        "e8e6",
+                        "e1d1",
+                        "g7g6",
+                        "h8g6",
+                        "d7d8",
+                        "g6f8",
+                        "e6g4",
+                        "h5g4",
+                        "c8g4",
+                        "f1e2"
+                    ],
+                    "nextMove": "g6h8"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "e4d5",
+                        "d8e8",
+                        "c3b5",
+                        "d6d7",
+                        "d5e6",
+                        "d7d8",
+                        "h5d5",
+                        "c8d7",
+                        "g6f8",
+                        "e8f8",
+                        "e6d7"
+                    ],
+                    "nextMove": "e4d5"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "c3b5",
+                        "d6d7",
+                        "g6h8",
+                        "c7c6",
+                        "b5d4",
+                        "f8d6",
+                        "h8g6",
+                        "d8e8",
+                        "e4d5"
+                    ],
+                    "nextMove": "c3b5"
+                }
+            ],
+            "capturedPiece": "r"
+        },
+        {
+            "turn": "b",
+            "movePlayed": "g8e7",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "d6d7",
+                        "e4d5",
+                        "d8e8",
+                        "d5e6",
+                        "e8e6",
+                        "f1e2",
+                        "g7g6",
+                        "h8g6",
+                        "f8g7",
+                        "g6h8",
+                        "d7d8",
+                        "e1g1",
+                        "g7h8",
+                        "d2d4",
+                        "e6f5"
+                    ],
+                    "nextMove": "d6d7"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "g8e7",
+                        "h8f7",
+                        "d6d7",
+                        "f7d8",
+                        "d7d8",
+                        "e4d5",
+                        "e7d5",
+                        "c3d5",
+                        "e6d5",
+                        "h5d5",
+                        "c8d7",
+                        "d2d4"
+                    ],
+                    "nextMove": "g8e7"
+                },
+                {
+                    "score": {
+                        "w": 0,
+                        "d": 0,
+                        "l": 1000
+                    },
+                    "suggestedMoves": [
+                        "b8c6",
+                        "h8f7",
+                        "d6e7",
+                        "f7d8",
+                        "c6d8",
+                        "e4d5",
+                        "c8d7",
+                        "d5e6",
+                        "d8e6"
+                    ],
+                    "nextMove": "b8c6"
+                }
+            ],
+            "capturedPiece": ""
+        },
+        {
+            "turn": "w",
+            "movePlayed": "h8f7",
+            "engineSuggestions": [
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "h8f7",
+                        "d6d7",
+                        "f7d8",
+                        "d7d8",
+                        "d2d4",
+                        "b8d7",
+                        "e4d5",
+                        "e7d5",
+                        "c3d5",
+                        "e6d5",
+                        "h5d5",
+                        "c7c6",
+                        "d5f7",
+                        "d8c7"
+                    ],
+                    "nextMove": "h8f7"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "e4d5",
+                        "e7d5",
+                        "h8f7",
+                        "d6d7",
+                        "f7d8",
+                        "d7d8",
+                        "c3d5",
+                        "e6d5",
+                        "h5d5",
+                        "b8d7",
+                        "d2d4",
+                        "c7c6",
+                        "d5f7"
+                    ],
+                    "nextMove": "e4d5"
+                },
+                {
+                    "score": {
+                        "w": 1000,
+                        "d": 0,
+                        "l": 0
+                    },
+                    "suggestedMoves": [
+                        "f1b5",
+                        "c7c6",
+                        "h8f7",
+                        "d6c7",
+                        "f7d8",
+                        "c7d8",
+                        "b5f1",
+                        "b8d7",
+                        "d2d4"
+                    ],
+                    "nextMove": "f1b5"
+                }
+            ],
+            "capturedPiece": ""
+        }
+    ]
+}
